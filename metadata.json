@@ -1,5 +1,0 @@
-{
-  "name": "Trình Tạo Ảnh MIA (created by Nhiệm Trần)",
-  "description": "An application that allows users to upload images of models and garments, and then generates combined images showing the models wearing the outfits.",
-  "requestFramePermissions": []
-}
